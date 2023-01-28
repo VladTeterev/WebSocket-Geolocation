@@ -1,4 +1,4 @@
-"# WebSocket-Geolocation" Link https://vladteterev.github.io/WebSocket-Geolocation/
+"# WebSocket-Geolocation" Link https://vladteterev.github.io/WebSocket-Geolocation/<br>
 Реализовать чат на основе эхо-сервера wss://echo-ws-service.herokuapp.com.<br>
 Интерфейс состоит из input, куда вводится текст сообщения, и кнопки «Отправить».<br>
 При клике на кнопку «Отправить» сообщение должно появляться в окне переписки.<br>
